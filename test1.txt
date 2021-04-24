@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 965F-94DF
-
- Directory of C:\Users\bb06211\Desktop\Practice\Myproject
-
-04/24/2021  10:42 AM    <DIR>          .
-04/24/2021  10:42 AM    <DIR>          ..
-04/24/2021  10:42 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  438,129,135,616 bytes free
+change 1
